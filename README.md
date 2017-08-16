@@ -1,6 +1,8 @@
 # 11quiz
-A quick quiz iOS app! You can clone it and add you own questions and settings.
+A quick quiz iOS app! You can clone it and add you own questions and settings.<br>
+
 ![Demo](./Screenshots/demo.gif)
+
 ## Installation
 
  Just clone this repo, open it using Xcode 9. That's it!
